@@ -1,6 +1,6 @@
 # OneMCP Hub
 
-A central repository for OneMCP users to report issues, request features, and propose new MCPs.
+A central repository for [OneMCP](https://onemcp.io/) users to report issues, request features, and propose new MCPs.
 
 ## Purpose
 
